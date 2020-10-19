@@ -7,7 +7,7 @@ if (isset($_GET['category'])) {
 $query= "SELECT * FROM posts'";
 }
 $posts = $db->query($query);
-
+$nosql = convert($sql);
 ?>
 
   <div class="jumbotron p-4 p-md-5 text-white rounded bg-dark">
