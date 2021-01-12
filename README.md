@@ -1,2 +1,1 @@
-# blog-php
-open-ended project of web technology
+# Portal for Social Enthusiast
